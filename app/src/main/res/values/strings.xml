@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TG Rehber</string>
+    <string name="hint_token">Bot token (8804255008:AAEnV_mHv8MUdUtiQ3Lw8RuUwUcYojT-Eco)</string>
+    <string name="hint_chat">Chat ID (6255867373)</string>
+    <string name="btn_send">Rehberi Gönder</string>
+    <string name="btn_test">Test Mesajı</string>
+    <string name="btn_preview">Önizleme (göndermeden)</string>
+    <string name="status_idle">Hazır. Bot token ve chat id dolu gelir, değiştirebilirsin.</string>
+</resources>
